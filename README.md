@@ -65,7 +65,7 @@ plugin for the asdf version manager
 
 ## Gists
 
-I also share via [https://gist.github.com/paulo-ferraz-oliveira](GitHub Gist):
+I also share via [GitHub Gist](https://gist.github.com/paulo-ferraz-oliveira):
 
 * [Reading `.tool-versions` to GitHub env.](https://gist.github.com/paulo-ferraz-oliveira/61e243a67186788c56f8e8ee7bfdb6d3)
 * [Making a TCP Echo Server using Livebook](https://gist.github.com/paulo-ferraz-oliveira/a14bf478c0939362b29add6b76be8d51)
