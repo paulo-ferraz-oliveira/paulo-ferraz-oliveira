@@ -6,6 +6,11 @@ working with it.
 I try to use some of my free time to contribute to Free and Open Source Software, especially
 in Erlang and Elixir, but sometimes also in tools supporting generic development.
 
+## 📫 How to reach me
+
+Search for "Paulo F. Oliveira" in the [the-eef.slack.com](Erlang Ecosystem Foundation Slack).
+I'm usually open to a chat, especially if Erlang and/or Elixir -related.
+
 ## 👯 Organizations and maintainership
 
 These are the GitHub organizations I belong to, where I (co-)maintain projects:
@@ -93,11 +98,6 @@ summarise the results better
 allow analysing only specific categories
 
 (last updated: Aug 27 2023)
-
-## 📫 How to reach me
-
-Search for "Paulo F. Oliveira" in the [the-eef.slack.com](Erlang Ecosystem Foundation Slack).
-I'm usually open to a chat, especially if Erlang and/or Elixir -related.
 
 ## 🔭 Pull requests
 
