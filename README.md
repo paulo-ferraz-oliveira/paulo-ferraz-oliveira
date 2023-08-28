@@ -8,7 +8,7 @@ in Erlang and Elixir, but sometimes also in tools supporting generic development
 
 ## 📫 How to reach me
 
-Search for "Paulo F. Oliveira" in the [the-eef.slack.com](Erlang Ecosystem Foundation Slack).
+Search for `Paulo F. Oliveira` in the [Erlang Ecosystem Foundation Slack](https://the-eef.slack.com).
 I'm usually open to a chat, especially if Erlang and/or Elixir -related.
 
 ## 👯 Organizations and maintainership
