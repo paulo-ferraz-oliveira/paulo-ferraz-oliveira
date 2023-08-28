@@ -63,7 +63,7 @@ plugin for the asdf version manager
 
 (last updated: Aug 27 2023)
 
-## Gists
+## 💼 Gists
 
 I also share via [GitHub Gist](https://gist.github.com/paulo-ferraz-oliveira):
 
