@@ -99,51 +99,6 @@ allow analysing only specific categories
 
 (last updated: Aug 27 2023)
 
-## 🔭 Pull requests
-
-These are some of the pull requests created by me that I find more noteworthy<sup>(*)</sup>:
-
-* [erlang/eep#31](https://github.com/erlang/eep/pull/31) - Markdownlint
-* [erlang/otp#2794](https://github.com/erlang/otp/pull/2794) - Add behaviour `ct_suite` (original
-by richcarl)
-* [erlang/otp#2963](https://github.com/erlang/otp/pull/2963) - Simplify configuration of
-cross-compiling to Android x86\_64
-* [erlef/setup-beam#9](https://github.com/erlef/setup-beam/pull/9) - Merge `setup-erlang` in
-* [erlef/setup-beam#34](https://github.com/erlef/setup-beam/pull/34) - Fix version ranges for
-non-SemVer
-* [erlef/setup-beam#49](https://github.com/erlef/setup-beam/pull/49) - Allow running on Windows
-instances
-* [erlef/setup-beam#67](https://github.com/erlef/setup-beam/pull/67) - Add Gleam
-* [erlef/setup-beam#159](https://github.com/erlef/setup-beam/pull/159) - Ease consumption by means
-of `.tool-versions`
-* [erlef/setup-beam#217](https://github.com/erlef/setup-beam/pull/217) - Rework the version matching
-algorithm
-* [erlef/setup-beam#223](https://github.com/erlef/setup-beam/pull/223) - Use `tool-cache` for Gleam
-and `rebar3`
-* [inaka/elvis\_core#132](https://github.com/inaka/elvis_core/pull/132) - Add rule
-`atom_naming_convention`
-* [inaka/elvis\_core#136](https://github.com/inaka/elvis_core/pull/136) - Allow module-level
-configuration via attribute `-elvis(_)`
-* [inaka/elvis\_core#137](https://github.com/inaka/elvis_core/pull/137) - Add option `ignore` to all
-rules
-* [inaka/elvis\_core#138](https://github.com/inaka/elvis_core/pull/138) - Analyze abstract code (BEAM
-files)
-* [inaka/elvis\_core#219](https://github.com/inaka/elvis_core/pull/219) - Add rule `no_macros`
-* [inaka/elvis\_core#226](https://github.com/inaka/elvis_core/pull/226) - Add rule `no_throw`
-* [inaka/elvis\_core#231](https://github.com/inaka/elvis_core/pull/231) - Add rule `no_space`
-* [inaka/elvis\_core#233](https://github.com/inaka/elvis_core/pull/233) - Add rule
-`no_block_expressions`
-* [inaka/elvis\_core#235](https://github.com/inaka/elvis_core/pull/235) - Add rule
-`no_catch_expressions`
-* [kerl/kerl#360](https://github.com/kerl/kerl/pull/360) - Allow building debug Erlang instances
-* [kerl/kerl#418](https://github.com/kerl/kerl/pull/418) - Implement `build-install`
-* [kerl/kerl#452](https://github.com/kerl/kerl/pull/452) - Add command `emit-activate`
-* [kerl/kerl#454](https://github.com/kerl/kerl/pull/454) - Warn on activation script staleness
-* [starbelly/rebar3\_ex_doc#51](https://github.com/starbelly/rebar3_ex_doc/pull/51) - Add
-out-of-the-box support for mermaid
-
-(last updated: Aug 27 2023)
-
 ---
 
 <sup>(*)</sup> yeah, I don't always have time/remember to update this, but will from time to time
