@@ -81,7 +81,7 @@ I also share via [GitHub Gist](https://gist.github.com/paulo-ferraz-oliveira):
 
 ## 🌱 Issues / looking for help
 
-Find, below, some issues that, if not closed<sup>(*)</sup>, I'd like to continue discussing:
+Find, below, some issues that, if not closed$^{(*)}$, I'd like to continue discussing:
 
 * [erlang/otp#6304](https://github.com/erlang/otp/issues/6304) - `fprof` flag to make it less
 verbose upon analysis
@@ -101,4 +101,4 @@ allow analysing only specific categories
 
 ---
 
-<sup>(*)</sup> yeah, I don't always have time/remember to update this, but will from time to time
+$^{(*)}$ yeah, I don't always have time/remember to update this, but will from time to time
