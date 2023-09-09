@@ -67,6 +67,7 @@ plugin for the asdf version manager
 
 I also share via [GitHub Gist](https://gist.github.com/paulo-ferraz-oliveira):
 
+* [Traversing `mix.exs`' AST)](https://gist.github.com/paulo-ferraz-oliveira/9a5d45f376a334fdad346288fc988e90)
 * [Reading `.tool-versions` to GitHub env.](https://gist.github.com/paulo-ferraz-oliveira/61e243a67186788c56f8e8ee7bfdb6d3)
 * [Making a TCP Echo Server using Livebook](https://gist.github.com/paulo-ferraz-oliveira/a14bf478c0939362b29add6b76be8d51)
 * [Tracing in Elixir with `:recon`, and `formatter`](https://gist.github.com/paulo-ferraz-oliveira/32931a4c19451294d3637ce9126f5b1d)
@@ -77,7 +78,7 @@ I also share via [GitHub Gist](https://gist.github.com/paulo-ferraz-oliveira):
 * [Simplifying your Common Test's `all/0`](https://gist.github.com/paulo-ferraz-oliveira/c809fbda9beba9711fdecd1a9e2ac031)
 * [Using `rebar3_depup` to keep your repositories up-to-date](https://gist.github.com/paulo-ferraz-oliveira/4e9707d68f9c9b1fc972abd8f65cea0a)
 
-(last updated: Aug 27 2023)
+(last updated: Sep 09 2023)
 
 ## 🌱 Issues / looking for help
 
