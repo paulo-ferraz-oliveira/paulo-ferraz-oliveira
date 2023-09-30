@@ -15,6 +15,9 @@ I'm usually open to a chat, especially if Erlang and/or Elixir -related.
 
 These are the GitHub organizations I belong to, where I (co-)maintain projects:
 
+* "org." [starbelly](https://github.com/starbelly)
+  * [rebar3_ex_doc](https://github.com/starbelly/rebar3_ex_doc) - rebar3 plugin for generating docs
+with ex_doc
 * org. [2Latinos](https://github.com/2Latinos)
   * [nuntius](https://github.com/2Latinos/nuntius) - An Erlang/OTP library to mock registered
 processes
@@ -44,7 +47,7 @@ Erlang
 * org. [project-fifo](https://github.com/project-fifo) (collaborating with)
   * [rebar3\_lint](https://github.com/project-fifo/rebar3_lint) - Erlang linter - rebar3 plugin
 
-(last updated: Aug 27 2023)
+(last updated: Sep 30 2023)
 
 These are some of the projects I created from scratch, and they've all reached usable
 (production-ready) status.
