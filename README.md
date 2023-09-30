@@ -23,7 +23,7 @@ with ex_doc
 processes
   * [nuntiux](https://github.com/2Latinos/nuntiux) - An Elixir library to mock registered processes
 * org. [kerl](https://github.com/kerl)
-  * [kerl](https://github.com/kerl) - Easy building and installing of Erlang/OTP instances
+  * [kerl](https://github.com/kerl/kerl) - Easy building and installing of Erlang/OTP instances
 * org. [spawnfest](https://github.com/spawnfest)
   * [spawnfest.github.io](https://github.com/spawnfest/spawnfest.github.io) - SpawnFest's website
 * org. [AdRoll](https://github.com/AdRoll) (collaborating with)
