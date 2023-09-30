@@ -79,27 +79,3 @@ I also share via [GitHub Gist](https://gist.github.com/paulo-ferraz-oliveira):
 * [Using `rebar3_depup` to keep your repositories up-to-date](https://gist.github.com/paulo-ferraz-oliveira/4e9707d68f9c9b1fc972abd8f65cea0a)
 
 (last updated: Sep 09 2023)
-
-## 🌱 Issues / looking for help
-
-Find, below, some issues that, if not closed$^{(*)}$, I'd like to continue discussing:
-
-* [erlang/otp#6304](https://github.com/erlang/otp/issues/6304) - `fprof` flag to make it less
-verbose upon analysis
-* [erlang/otp#7540](https://github.com/erlang/otp/issues/7540) - Allow for an alternative
-`ct_config` in Common Test
-* [erlef/setup-beam#54](https://github.com/erlef/setup-beam/issues/54) - Add action for macOS
-* [erlef/setup-beam#222](https://github.com/erlef/setup-beam/issues/222) - Should the action output
-its own SemVer version so it could be used as part of the cache restore key?
-* [inaka/cowboy\_swagger#156](https://github.com/inaka/cowboy_swagger/issues/156) - Improve our
-example
-* [inaka/elvis\_core#277](https://github.com/inaka/elvis_core/issues/277) - Think of a way to
-summarise the results better
-* [inaka/elvis\_core#278](https://github.com/inaka/elvis_core/issues/278) - Categorise rules and
-allow analysing only specific categories
-
-(last updated: Aug 27 2023)
-
----
-
-$^{(*)}$ yeah, I don't always have time/remember to update this, but will from time to time
