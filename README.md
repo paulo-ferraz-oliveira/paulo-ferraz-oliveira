@@ -62,9 +62,11 @@ action to turn .tool-versions' content into environment variables
 markdownlint plugin for the asdf version manager
 * [asdf-awscli-local](https://github.com/paulo-ferraz-oliveira/asdf-awscli-local) - awscli-local
 plugin for the asdf version manager
+* [simpler_cowboy_rest](https://github.com/paulo-ferraz-oliveira/simpler_cowboy_rest) - an example
+of a simpler `cowboy_rest` behaviour
 * [nuntiux](https://github.com/2Latinos/nuntiux) - An Elixir library to mock registered processes
 
-(last updated: Aug 27 2023)
+(last updated: Oct 27 2023)
 
 ## 💼 Gists
 
