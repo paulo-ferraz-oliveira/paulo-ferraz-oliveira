@@ -21,7 +21,6 @@ with ex_doc
 * org. [2Latinos](https://github.com/2Latinos)
   * [nuntius](https://github.com/2Latinos/nuntius) - An Erlang/OTP library to mock registered
 processes
-  * [nuntiux](https://github.com/2Latinos/nuntiux) - An Elixir library to mock registered processes
 * org. [kerl](https://github.com/kerl)
   * [kerl](https://github.com/kerl/kerl) - Easy building and installing of Erlang/OTP instances
 * org. [spawnfest](https://github.com/spawnfest)
@@ -47,7 +46,7 @@ Erlang
 * org. [project-fifo](https://github.com/project-fifo) (collaborating with)
   * [rebar3\_lint](https://github.com/project-fifo/rebar3_lint) - Erlang linter - rebar3 plugin
 
-(last updated: Sep 30 2023)
+(last updated: Oct 29 2023)
 
 These are some of the projects I created from scratch, and they've all reached usable
 (production-ready) status.
@@ -64,9 +63,9 @@ markdownlint plugin for the asdf version manager
 plugin for the asdf version manager
 * [simpler_cowboy_rest](https://github.com/paulo-ferraz-oliveira/simpler_cowboy_rest) - an example
 of a simpler `cowboy_rest` behaviour
-* [nuntiux](https://github.com/2Latinos/nuntiux) - An Elixir library to mock registered processes
+* [Nuntiux](https://github.com/2Latinos/nuntiux) - An Elixir library to mock registered processes
 
-(last updated: Oct 27 2023)
+(last updated: Oct 29 2023)
 
 ## 💼 Gists
 
