@@ -1,7 +1,7 @@
 # Paulo F. Oliveira 👋
 
-I’m currently working as an Erlang/OTP engineer, though I'm also into Elixir and have experience
-working with it.
+I’m currently working as an Erlang/OTP engineer (10 years+), though I'm also into Elixir and have
+experience working with it (2 years+).
 
 I try to use some of my free time to contribute to Free and Open Source Software, especially
 in Erlang and Elixir, but sometimes also in tools supporting generic development.
