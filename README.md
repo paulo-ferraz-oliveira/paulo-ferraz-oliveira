@@ -71,6 +71,7 @@ of a simpler `cowboy_rest` behaviour
 
 I also share via [GitHub Gist](https://gist.github.com/paulo-ferraz-oliveira):
 
+* [Renovate your GitHub repositories](https://gist.github.com/paulo-ferraz-oliveira/68e04915037d1e78eb815a90f491f97d)
 * [Traversing `mix.exs`' AST)](https://gist.github.com/paulo-ferraz-oliveira/9a5d45f376a334fdad346288fc988e90)
 * [Reading `.tool-versions` to GitHub env.](https://gist.github.com/paulo-ferraz-oliveira/61e243a67186788c56f8e8ee7bfdb6d3)
 * [Making a TCP Echo Server using Livebook](https://gist.github.com/paulo-ferraz-oliveira/a14bf478c0939362b29add6b76be8d51)
@@ -82,4 +83,4 @@ I also share via [GitHub Gist](https://gist.github.com/paulo-ferraz-oliveira):
 * [Simplifying your Common Test's `all/0`](https://gist.github.com/paulo-ferraz-oliveira/c809fbda9beba9711fdecd1a9e2ac031)
 * [Using `rebar3_depup` to keep your repositories up-to-date](https://gist.github.com/paulo-ferraz-oliveira/4e9707d68f9c9b1fc972abd8f65cea0a)
 
-(last updated: Sep 09 2023)
+(last updated: Jun 07 2024)
