@@ -31,6 +31,8 @@ Erlang Projects
 * org. [erlef](https://github.com/erlef) (collaborating with)
   * [setup-beam](https://github.com/erlef/setup-beam) - Set up your BEAM-based GitHub Actions
 workflow (Erlang, Elixir, Gleam, ...)
+  * [setup-elp](https://github.com/erlef/setup-elp) - A GitHub action to run ELP eqWAlizer in your
+CI pipelines
   * [rebar3\_hex](https://github.com/erlef/rebar3_hex) - Rebar3 Hex library
 * org. [inaka](https://github.com/inaka) (collaborating with)
   * [cowboy-trails](https://github.com/inaka/cowboy-trails) - A couple of improvements over Cowboy
@@ -46,7 +48,7 @@ Erlang
 * org. [project-fifo](https://github.com/project-fifo) (collaborating with)
   * [rebar3\_lint](https://github.com/project-fifo/rebar3_lint) - Erlang linter - rebar3 plugin
 
-(last updated: Oct 29 2023)
+(last updated: Jun 20 2024)
 
 These are some of the projects I created from scratch, and they've all reached usable
 (production-ready) status.
@@ -64,8 +66,10 @@ plugin for the asdf version manager
 * [simpler_cowboy_rest](https://github.com/paulo-ferraz-oliveira/simpler_cowboy_rest) - an example
 of a simpler `cowboy_rest` behaviour
 * [Nuntiux](https://github.com/2Latinos/nuntiux) - An Elixir library to mock registered processes
+* [otp-macos](https://github.com/jelly-beam/otp-macos) - Pre-compiled Erlang/OTP for macOS GHA
+runners
 
-(last updated: Oct 29 2023)
+(last updated: Jun 20 2024)
 
 ## 💼 Gists
 
