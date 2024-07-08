@@ -17,17 +17,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4.0.0
+      - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
 
       # uses .markdownlint.yml for configuration
       - name: markdownlint
-        uses: DavidAnson/markdownlint-cli2-action@v12.0.0
+        uses: DavidAnson/markdownlint-cli2-action@3aaa38e446fbd2c288af4291aa0f55d64651050f # v12.0.0
         with:
           globs: |
             *.md
 
       - name: yamllint
-        uses: ibiqlik/action-yamllint@v3.0.0
+        uses: ibiqlik/action-yamllint@2576378a8e339169678f9939646ee3ee325e845c # v3.1.1
         with:
           file_or_dir: |
             .github/**/*.yml
