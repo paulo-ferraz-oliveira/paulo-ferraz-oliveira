@@ -34,6 +34,7 @@ workflow (Erlang, Elixir, Gleam, ...)
   * [setup-elp](https://github.com/erlef/setup-elp) - A GitHub action to run ELP eqWAlizer in your
 CI pipelines
   * [rebar3\_hex](https://github.com/erlef/rebar3_hex) - Rebar3 Hex library
+  * [otp\_builds](https://github.com/erlef/otp_builds) - Community-maintained pre-compiled Erlang/OTP for macOS
 * org. [inaka](https://github.com/inaka) (collaborating with)
   * [cowboy-trails](https://github.com/inaka/cowboy-trails) - A couple of improvements over Cowboy
 Routes
